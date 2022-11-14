@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrSmiler
-- 👀 I’m interested system programming, os dev, game dev, automation, board games, gaming.
+- 👀 I’m interested in system programming, os dev, game dev, automation, board games, video games.
 - 📫 How to reach me, 00riddler00@gmail.com
 
 <!---
