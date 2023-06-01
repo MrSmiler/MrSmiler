@@ -6,4 +6,4 @@
 
 📈 **My GitHub Stats:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSmiler)](https://github.com/MrSmiler/github-readme-stats)
+[![MrSmiler's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSmiler)](https://github.com/MrSmiler)
